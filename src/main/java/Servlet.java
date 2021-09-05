@@ -1,5 +1,8 @@
 public class Servlet {
     private void sayHi(){
-        System.out.println("hii");
+        System.out.println("not hi");
+    }
+    private void sayBye(){
+        System.out.println("Bye");
     }
 }
