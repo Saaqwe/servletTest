@@ -3,6 +3,6 @@ public class Servlet {
         System.out.println("not hi");
     }
     private void sayBye(){
-        System.out.println("sadksd");
+        System.out.println("asdasda");
     }
 }
